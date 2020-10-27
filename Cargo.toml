@@ -1,0 +1,8 @@
+[package]
+name = "aoc_2015"
+version = "0.1.0"
+authors = ["Arjan de Pooter <mail@arjandepooter.nl>"]
+edition = "2018"
+
+[dependencies]
+md-5 = "0.9.1"
